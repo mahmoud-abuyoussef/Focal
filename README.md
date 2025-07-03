@@ -61,7 +61,11 @@ Focal
 
 ```bash
 git clone git@github.com:mahmoud-abuyoussef/Focal.git
-# or  
+```
+
+or
+
+```bash
 git clone https://github.com/mahmoud-abuyoussef/Focal.git
 ```
 
